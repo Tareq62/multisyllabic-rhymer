@@ -1,6 +1,6 @@
 # multisyllabic-rhymer
 
-Find multisyllabic rhymes (perfect, slant, and internal) within the CMU Pronouncing Dictionary.
+Find multisyllabic rhymes (perfect, internal, and slant) within the CMU Pronouncing Dictionary.
 
 ```
 $ python multisyllabic_rhymer.py cigar
