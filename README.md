@@ -3,13 +3,20 @@
 Find multisyllabic rhymes (perfect, internal, and slant) within the CMU Pronouncing Dictionary.
 
 ```
-$ pip install -r requirements.txt
 $ python multisyllabic_rhymer.py cigar
 No perfect rhymes.
 
 Internal rhymes: cigars, degarmo, disregard, disregarded, disregarding, disregards, regard, regarded...
 
 Slant rhymes: bedard, bellard, benard, bevard, billard, bizarre, bizzaro, bradycardia, cisar, cynara...
+```
+
+## Requirements
+
+You'll need Pronouncing 0.1.3. To install this requirement, run
+
+```
+$ pip install -r requirements.txt
 ```
 
 ## Perfect, internal, and slant rhymes
