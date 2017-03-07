@@ -3,6 +3,7 @@
 Find multisyllabic rhymes (perfect, internal, and slant) within the CMU Pronouncing Dictionary.
 
 ```
+$ pip install -r requirements.txt
 $ python multisyllabic_rhymer.py cigar
 No perfect rhymes.
 
